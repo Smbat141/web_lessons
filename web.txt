@@ -1,0 +1,70 @@
+																				WEB OR FCKing REQUEST -> RESPONSE
+
+
+tcp/ip layers
+wifi, lan
+###############
+tcp vs udp
+application layer
+domains
+http/https
+##############
+proxy
+servers
+vpn
+server handlers - nginx, apache
+##############
+pip, flask, frameworks
+localhost
+client/server
+browsers
+postman
+##############
+htmls
+javascript
+#############
+endpints
+sqlalchemy
+get, post, patch, put
+routes
+crud
+#############
+mvc
+middlweares
+
+
+
+
+
+TCP / IP
+
+asdas - asdasddf  -------------------> ROUTER(wrwere-rwerwer) ------------------>
+255.255.12.15       ------------------------> ROUTER(255.255.132.135)
+
+1-1 -134.545.54.55
+2-------------------------
+3                                  255.255.125.126 ----> 255.255.130.180 1110001010101 - > zangi Tikoyin
+4-------------------------
+5-------------------------
+
+
+
+1-1 134.545.54.56     <------------  255.255.125.124
+2
+3
+4
+5
+
+
+
+
+
+Hey - >  Applcation Layer -> Telegram 
+010101010101000011(Hey).TelegramIp.SmboIp -> Transport Layer
+010101010101000011(Hey).TelegramIp.SmboIp -> Inerntet Layer -> Modem
+010101010101000011(Hey).TelegramIp.SmboIp -> Phisical Layer
+
+
+www.amazon.com -> 254.54.57.87
+
+
